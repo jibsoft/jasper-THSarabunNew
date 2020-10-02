@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fontFamilies>
 	<fontFamily name="THSarabunPSK">
-		<normal><![CDATA[fonts/THSarabunPSK/THSarabun.ttf]]></normal>
-		<bold><![CDATA[fonts/THSarabunPSK/THSarabun Bold.ttf]]></bold>
-		<italic><![CDATA[fonts/THSarabunPSK/THSarabun Italic.ttf]]></italic>
-		<boldItalic><![CDATA[fonts/THSarabunPSK/THSarabun Bold Italic.ttf]]></boldItalic>
+		<normal><![CDATA[fonts/THSarabunNew/THSarabunNew.ttf]]></normal>
+		<bold><![CDATA[fonts/THSarabunNew/THSarabunNew Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/THSarabunNew/THSarabunNew Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/THSarabunNew/THSarabunNew BoldItalic.ttf]]></boldItalic>
 		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
 		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
 		<exportFonts/>
