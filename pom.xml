@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jibsoft.jasper.thsarabunnew</groupId>
 	<artifactId>jasper-thsarabunnew</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Jasper Font THSarabunNew</name>
 	<description>Library Font THSarabunNew for jasper designer and exporter.</description>
@@ -35,7 +35,7 @@
 		<connection>scm:git:git://github.com/jibsoft/jasper-THSarabunNew.git</connection>
 		<developerConnection>scm:git:git@github.com:jibsoft/jasper-THSarabunNew.git</developerConnection>
 		<url>https://github.com/jibsoft/jasper-THSarabunNew</url>
-		<tag>jasper-thsarabunnew-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
